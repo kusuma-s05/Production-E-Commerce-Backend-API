@@ -2,6 +2,8 @@
 
 A robust and scalable RESTful API built with FastAPI for managing an e-commerce platform. This backend handles product catalogs, user authentication, shopping carts, order processing, and more.
 
+<img src="./E Commerce - FlaskAPI.png" alt="Kusuma S - Software Engineer" width="100%">
+
 ## Features
 
 -   **User Management**: Secure user registration, login, and profile management using JWT authentication and Argon2 hashing.
